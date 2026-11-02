@@ -288,4 +288,4 @@ The model therefore learns to recognise the state of the system *just before* pr
 
 If you use this work, please cite the accompanying paper:
 
-> Aditi, I. Majumder and A. Singh, "Predicting Linux Memory Pressure Before Swapping with Machine Learning and Pressure Stall Information."
+> Aditi, Ishani Majumder and Anshika Singh, "Predicting Linux Memory Pressure Before Swapping with Machine Learning and Pressure Stall Information."
